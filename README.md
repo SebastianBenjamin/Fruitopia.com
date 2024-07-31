@@ -2,11 +2,11 @@
 
 ## Description
 
-**Fruitopia** is a fruit e-commerce website designed to provide a user-friendly platform for browsing and purchasing a variety of fruits. The site is built using HTML, CSS, and JavaScript. This project aims to deliver a seamless experience for users to explore different fruits and their details.
+**Fruitopia** is a fruit e-commerce  website designed only front-end in basic level .It provides a user-friendly platform for browsing and purchasing a variety of fruits,stationaries and veggies. The site is built using HTML, CSS, and JavaScript. 
 
 ## Features
 
-- **Fruit Catalog**: Displays a list of available fruits with details such as name, price, discount %, and description.
+- **Item Catalog**: Displays a list of available Item with details such as name, price, discount %, and description.
 - **Shopping Cart**: Allows users to add fruits to their cart and view the total items in the cart.
 - **Responsive Design**: The website adjusts to different screen sizes (Note: Currently, only front-end prototyping is complete, and responsiveness is pending).
 
@@ -35,9 +35,9 @@
 
 ## Usage
 
-- **Browse Fruits**: Visit the homepage to view the list of fruits.
-- **Add to Cart**: Click the "Add to Cart" button next to any fruit to add it to your cart.
-- **View Cart**: Access your shopping cart to view selected items and their total cost.
+- **Browse**: Visit the homepage and search to view an item from the list of items.
+- **Add to Cart**: Click the "Add to Cart" button next to any item to add it to your cart.
+
 
 ## Development
 
