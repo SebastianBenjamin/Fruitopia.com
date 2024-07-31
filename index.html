@@ -1,0 +1,30 @@
+<html lang='en'>
+
+<head>
+  <meta charset='UTF-8' />
+  <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+  <title id='ttle'>FRUITOPIA</title>
+  <link href='./images/blueberry.png' rel='icon' />
+  <link href='style.css' rel='stylesheet' />
+</head>
+
+<body>
+  <div class='navbar'>
+    <div class='div' onclick='closefun()'>FRUITOPIA</div>
+    <button id='fruits' onclick='fruit()'>FRUITS</button>
+    <button id='stat' onclick='vegetable()'>VEGETABLES</button>
+    <button id='stat' onclick='stationary()'>STATIONARIES</button>
+    <div> <input type='search' placeholder='SEARCH' onkeyup='search()' id='search' maxlength='10  '><input type='checkbox' onclick='checksts()'id='checkbox'> </div>
+    <button id='button'  onclick='closefun()'>X</button>
+  </div>
+  <span class='loaded' id='v'></span>
+  <div id='display' class='display'>
+    <br><br><br><br><br><br><br><br><br><br>
+    CHOOSE / SEARCH AN ITEM  TO VIEW .
+
+  </div>
+
+  <script src='./script.js'></script>
+</body>
+
+</html>
